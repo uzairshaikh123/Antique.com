@@ -1,0 +1,5 @@
+export const LOADING ="loading"
+export const ERROR ="error"
+export const GETPRODUCTS ="getproducts"
+export const SIGNUP ="signup"
+export const LOGIN ="login"
